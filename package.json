@@ -1,0 +1,20 @@
+{
+  "name": "nama-proyek-anda",
+  "version": "1.0.0",
+  "dependencies": {
+    "request": "^2.88.2",
+    "cluster": "^1.4.12",
+    "fs": "0.0.1-security",
+    "axios": "^0.21.1",
+    "fake-useragent": "^1.5.1",
+    "sqlite3": "^5.0.2",
+    "telebot": "^0.5.26",
+    "http": "^0.0.1",
+    "http2": "^3.3.7",
+    "crypto": "^1.0.1",
+    "tls": "^0.0.1"
+  },
+  "scripts": {
+    "run": "node main.js"
+  }
+}
